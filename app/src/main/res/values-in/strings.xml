@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="LOGOUT">LOGOUT</string>
+    <string name="description">DESKRIPSI</string>
+    <string name="passwod">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="emptyAlert">Belum diisi</string>
+    <string name="invalidEmail">Jenis Email tidak valid</string>
+    <string name="passworAlert">Password Kurang dari 6</string>
+    <string name="emailHint">Masukkan Email Anda</string>
+    <string name="passwordHint">Masukkan Password Anda</string>
+</resources>
